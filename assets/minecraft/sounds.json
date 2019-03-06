@@ -1,0 +1,78 @@
+{
+	"all.sounds.nice-one-joey": {
+		"sounds": [
+			"all/sounds/nice-one-joey"
+		]
+	},
+	"all.sounds.laugh": {
+		"sounds": [
+			"all/sounds/laugh"
+		]
+	},
+
+  "music.game": {
+    "replace": true,
+    "sounds": [
+
+    ]
+  },
+  "music.creative": {
+    "replace": true,
+    "sounds": [
+
+    ]
+  },
+
+  "lobby.ambient.fountain": {
+    "sounds": [
+      "lobby/ambient/fountain"
+    ]
+  },
+  "lobby.ambient.shop.mask": {
+    "sounds": [
+      "lobby/ambient/shop/mask"
+    ]
+  },
+  "lobby.ambient.shop.pet": {
+    "sounds": [
+      "lobby/ambient/shop/pet"
+    ]
+  },
+  "lobby.ambient.shop.clothes": {
+    "sounds": [
+      "lobby/ambient/shop/clothes"
+    ]
+  },
+  "lobby.ambient.shop.particles": {
+    "sounds": [
+      "lobby/ambient/shop/particles"
+    ]
+  },
+  "lobby.ambient.station": {
+    "sounds": [
+      "lobby/ambient/station"
+    ]
+  },
+  "lobby.ambient.cascade": {
+    "sounds": [
+      "lobby/ambient/cascade"
+    ]
+  },
+  "lobby.ambient.birds": {
+    "sounds": [
+      "lobby/ambient/bird-1",
+      "lobby/ambient/bird-2",
+      "lobby/ambient/bird-3",
+      "lobby/ambient/bird-4",
+      "lobby/ambient/bird-5",
+      "lobby/ambient/bird-6"
+    ]
+  },
+
+  
+  "apocalypse.elements.chest.chest-1": {
+    "sounds": [
+      "apocalypse/elements/chest/chest-1"
+    ]
+  }
+}
