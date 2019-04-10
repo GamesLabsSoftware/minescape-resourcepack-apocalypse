@@ -69,10 +69,111 @@
     ]
   },
 
-  
+
   "apocalypse.elements.chest.chest-1": {
     "sounds": [
       "apocalypse/elements/chest/chest-1"
+    ]
+  },
+	"apocalypse.elements.chest.chest-open": {
+    "sounds": [
+      "apocalypse/elements/chest/chest-open"
+    ]
+  },
+	"apocalypse.ambient.fire": {
+    "sounds": [
+      "apocalypse/ambient/fire"
+    ]
+  },
+  "apocalypse.action.combat": {
+    "sounds": [
+      "apocalypse/action/combat_0",
+      "apocalypse/action/combat_1",
+      "apocalypse/action/combat_2",
+      "apocalypse/action/combat_3",
+      "apocalypse/action/combat_4",
+      "apocalypse/action/combat_5",
+      "apocalypse/action/combat_6",
+      "apocalypse/action/combat_7",
+      "apocalypse/action/combat_8",
+      "apocalypse/action/combat_9",
+      "apocalypse/action/combat_10",
+      "apocalypse/action/combat_11"
+    ]
+  },
+  "apocalypse.action.hurt": {
+    "sounds": [
+      "apocalypse/action/hurt_0"
+    ]
+  },
+	"apocalypse.action.eating": {
+		"sounds": [
+			"apocalypse/action/eating"
+		]
+	},
+	"apocalypse.action.drinking": {
+		"sounds": [
+			"apocalypse/action/drinking"
+		]
+	},
+	"apocalypse.action.fill_water": {
+		"sounds": [
+			"apocalypse/action/fill_water"
+		]
+	},
+	"apocalypse.music.combat": {
+		"sounds": [
+			"apocalypse/music/combat"
+		]
+	},
+	"apocalypse.action.cooking": {
+    "sounds": [
+      "apocalypse/action/cooking"
+    ]
+  },
+	"apocalypse.action.medkit": {
+    "sounds": [
+      "apocalypse/action/medkit"
+    ]
+  },
+	"apocalypse.action.break": {
+    "sounds": [
+      "apocalypse/action/break"
+    ]
+  },
+	"apocalypse.action.throw": {
+    "sounds": [
+      "apocalypse/action/throw"
+    ]
+  },
+	"apocalypse.ambient.blizzard": {
+    "sounds": [
+      "apocalypse/ambient/blizzard"
+    ]
+  },
+	"apocalypse.ambient.rain": {
+    "sounds": [
+      "apocalypse/ambient/rain"
+    ]
+  },
+	"apocalypse.ambient.sand": {
+    "sounds": [
+      "apocalypse/ambient/sand"
+    ]
+  },
+	"apocalypse.mobs.zombie": {
+    "sounds": [
+      "apocalypse/mobs/zombie1",
+		  "apocalypse/mobs/zombie2",
+		  "apocalypse/mobs/zombie3",
+		  "apocalypse/mobs/zombie4",
+		  "apocalypse/mobs/zombie5",
+		  "apocalypse/mobs/zombie6"
+    ]
+  },
+	"apocalypse.action.death": {
+    "sounds": [
+      "apocalypse/action/death"
     ]
   }
 }

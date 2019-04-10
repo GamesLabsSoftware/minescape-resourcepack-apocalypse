@@ -1,0 +1,18 @@
+{
+	"textures": {
+		"layer0": "apocalypse/ui/kits"
+	},
+	"size": {
+		"x": 9,
+		"y": 6
+	},
+	"item": {
+	  "en": {
+	    "name": " "
+	  },
+	  "models": {
+	    "java-edition": "item/apocalypse/ui/kits"
+	  },
+	  "type": "normal"
+	}
+}

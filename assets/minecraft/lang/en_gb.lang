@@ -1657,7 +1657,7 @@ gui.advancements=Advancements
 gui.stats=Statistics
 
 advancements.empty=There doesn't seem to be anything here...
-advancements.toast.task=Info
+advancements.toast.task=Achievement Unlocked!
 advancements.toast.challenge=Challenge Complete!
 advancements.toast.goal=Goal Reached!
 

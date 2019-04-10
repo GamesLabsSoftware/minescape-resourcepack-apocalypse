@@ -1,0 +1,6 @@
+{
+  "parent": "item/apocalypse/shields/wooden_blocking",
+  "textures": {
+    "a": "apocalypse/shields/erith"
+  }
+}

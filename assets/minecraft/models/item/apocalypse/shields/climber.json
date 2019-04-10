@@ -1,0 +1,6 @@
+{
+  "parent": "item/apocalypse/shields/wooden",
+  "textures": {
+    "a": "apocalypse/shields/climber"
+  }
+}

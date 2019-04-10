@@ -1,0 +1,6 @@
+{
+	"parent": "item/apocalypse/weapons/fire",
+	"textures": {
+		"a": "apocalypse/weapons/ice"
+	}
+}
