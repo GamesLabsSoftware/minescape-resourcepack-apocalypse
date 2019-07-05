@@ -1,86 +1,34 @@
 {
-	"all.sounds.nice-one-joey": {
-		"sounds": [
-			"all/sounds/nice-one-joey"
-		]
-	},
-	"all.sounds.laugh": {
-		"sounds": [
-			"all/sounds/laugh"
-		]
-	},
-
+  "all.sounds.nice-one-joey": {
+    "sounds": [
+      "all/sounds/nice-one-joey"
+    ]
+  },
+  "all.sounds.laugh": {
+    "sounds": [
+      "all/sounds/laugh"
+    ]
+  },
   "music.game": {
     "replace": true,
-    "sounds": [
-
-    ]
+    "sounds": []
   },
   "music.creative": {
     "replace": true,
-    "sounds": [
-
-    ]
+    "sounds": []
   },
-
-  "lobby.ambient.fountain": {
-    "sounds": [
-      "lobby/ambient/fountain"
-    ]
-  },
-  "lobby.ambient.shop.mask": {
-    "sounds": [
-      "lobby/ambient/shop/mask"
-    ]
-  },
-  "lobby.ambient.shop.pet": {
-    "sounds": [
-      "lobby/ambient/shop/pet"
-    ]
-  },
-  "lobby.ambient.shop.clothes": {
-    "sounds": [
-      "lobby/ambient/shop/clothes"
-    ]
-  },
-  "lobby.ambient.shop.particles": {
-    "sounds": [
-      "lobby/ambient/shop/particles"
-    ]
-  },
-  "lobby.ambient.station": {
-    "sounds": [
-      "lobby/ambient/station"
-    ]
-  },
-  "lobby.ambient.cascade": {
-    "sounds": [
-      "lobby/ambient/cascade"
-    ]
-  },
-  "lobby.ambient.birds": {
-    "sounds": [
-      "lobby/ambient/bird-1",
-      "lobby/ambient/bird-2",
-      "lobby/ambient/bird-3",
-      "lobby/ambient/bird-4",
-      "lobby/ambient/bird-5",
-      "lobby/ambient/bird-6"
-    ]
-  },
-
 
   "apocalypse.elements.chest.chest-1": {
     "sounds": [
       "apocalypse/elements/chest/chest-1"
     ]
   },
-	"apocalypse.elements.chest.chest-open": {
+  "apocalypse.elements.chest.chest-open": {
     "sounds": [
       "apocalypse/elements/chest/chest-open"
     ]
   },
-	"apocalypse.ambient.fire": {
+  "apocalypse.ambient.fire": {
     "sounds": [
       "apocalypse/ambient/fire"
     ]
@@ -106,72 +54,72 @@
       "apocalypse/action/hurt_0"
     ]
   },
-	"apocalypse.action.eating": {
-		"sounds": [
-			"apocalypse/action/eating"
-		]
-	},
-	"apocalypse.action.drinking": {
-		"sounds": [
-			"apocalypse/action/drinking"
-		]
-	},
-	"apocalypse.action.fill_water": {
-		"sounds": [
-			"apocalypse/action/fill_water"
-		]
-	},
-	"apocalypse.music.combat": {
-		"sounds": [
-			"apocalypse/music/combat"
-		]
-	},
-	"apocalypse.action.cooking": {
+  "apocalypse.action.eating": {
+    "sounds": [
+      "apocalypse/action/eating"
+    ]
+  },
+  "apocalypse.action.drinking": {
+    "sounds": [
+      "apocalypse/action/drinking"
+    ]
+  },
+  "apocalypse.action.fill_water": {
+    "sounds": [
+      "apocalypse/action/fill_water"
+    ]
+  },
+  "apocalypse.music.combat": {
+    "sounds": [
+      "apocalypse/music/combat"
+    ]
+  },
+  "apocalypse.action.cooking": {
     "sounds": [
       "apocalypse/action/cooking"
     ]
   },
-	"apocalypse.action.medkit": {
+  "apocalypse.action.medkit": {
     "sounds": [
       "apocalypse/action/medkit"
     ]
   },
-	"apocalypse.action.break": {
+  "apocalypse.action.break": {
     "sounds": [
       "apocalypse/action/break"
     ]
   },
-	"apocalypse.action.throw": {
+  "apocalypse.action.throw": {
     "sounds": [
       "apocalypse/action/throw"
     ]
   },
-	"apocalypse.ambient.blizzard": {
+  "apocalypse.ambient.blizzard": {
     "sounds": [
       "apocalypse/ambient/blizzard"
     ]
   },
-	"apocalypse.ambient.rain": {
+  "apocalypse.ambient.rain": {
     "sounds": [
       "apocalypse/ambient/rain"
     ]
   },
-	"apocalypse.ambient.sand": {
+  "apocalypse.ambient.sand": {
     "sounds": [
       "apocalypse/ambient/sand"
     ]
   },
-	"apocalypse.mobs.zombie": {
+  "apocalypse.mobs.zombie": {
     "sounds": [
       "apocalypse/mobs/zombie1",
-		  "apocalypse/mobs/zombie2",
-		  "apocalypse/mobs/zombie3",
-		  "apocalypse/mobs/zombie4",
-		  "apocalypse/mobs/zombie5",
-		  "apocalypse/mobs/zombie6"
+      "apocalypse/mobs/zombie2",
+      "apocalypse/mobs/zombie3",
+      "apocalypse/mobs/zombie4",
+      "apocalypse/mobs/zombie5",
+      "apocalypse/mobs/zombie6"
     ]
   },
-	"apocalypse.action.death": {
+  "apocalypse.action.death": {
     "sounds": [
       "apocalypse/action/death"
     ]

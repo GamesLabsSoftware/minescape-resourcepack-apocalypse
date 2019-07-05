@@ -1,0 +1,22 @@
+{
+	"__comment": "Designed by Scipio3000 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"surface": "apocalypse/models/storm"
+	},
+	"elements": [
+		{
+			"__comment": "PlaneY1",
+			"from": [ -15.5, 0, -16 ],
+			"to": [ 32, 0.001, 32 ],
+			"faces": {
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#surface" }
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation":  [ 0, 7.5869, 0 ],
+			"scale":  [ 4, 1, 4 ]
+		}
+	}
+}
